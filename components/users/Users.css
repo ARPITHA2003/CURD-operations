@@ -1,0 +1,22 @@
+.profile{
+    max-width: 300px;
+    height: 300px;
+    width: 100%;
+    border-radius: 50%;
+
+}
+
+.name{
+    color: #047c82;
+    text-transform: capitalize;
+    font-weight: 500px;
+
+}
+
+.btn-circle {
+    border-radius: 50%;
+}
+
+.card{
+    height: 400px;
+}

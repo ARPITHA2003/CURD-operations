@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "7d53",
+      "name": "franklin",
+      "email": "franklin@gmail.com",
+      "dob": "2024-05-17",
+      "userimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6R4HD7-sBWPy5aVXCgBJ1z01wRPD9bp1zw&s"
+    },
+    {
+      "name": "g varun",
+      "email": "varun243@gmail.com",
+      "dob": "2024-05-15",
+      "userimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAe9NZZk7nUE_anJir2Scf7tsqMHRdEpCbJg&s",
+      "id": "497f"
+    }
+  ]
+}

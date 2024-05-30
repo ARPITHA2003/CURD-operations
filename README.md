@@ -4,3 +4,6 @@ This is a React application that implements CRUD (Create, Read, Update, Delete) 
 Look into my package.json file for the required libraries.(and install using the command - npm install library_name)
 
 make sure to run the npx create-react-app ur_project_name to install the node_modules,public,src, .gitignore,package.json,package_lock folders.The provided code is the react code to be run in the app.js and app.css
+
+The links are temporary instead you can give your links to the user images.
+Create a components folder in src folder and follow as given.
